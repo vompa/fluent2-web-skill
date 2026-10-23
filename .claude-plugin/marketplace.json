@@ -1,0 +1,15 @@
+{
+  "name": "vompa-web-skills",
+  "description": "Web skills by vompa for Claude Code",
+  "owner": {
+    "name": "vompa",
+    "url": "https://github.com/vompa"
+  },
+  "plugins": [
+    {
+      "name": "fluent2-web",
+      "source": "./",
+      "description": "Fluent 2 design rules, component behavior and review checklists for web apps"
+    }
+  ]
+}

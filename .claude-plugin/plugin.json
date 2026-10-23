@@ -1,0 +1,20 @@
+{
+  "name": "fluent2-web",
+  "displayName": "Fluent 2 for the web",
+  "version": "0.1.0",
+  "description": "Fluent 2 design rules, component behavior and review checklists for web apps (React, HTML, CSS; Fluent UI React v9 or your own components), with test patterns and responsible AI guidance.",
+  "author": {
+    "name": "vompa",
+    "url": "https://github.com/vompa"
+  },
+  "homepage": "https://github.com/vompa/fluent2-web-skill",
+  "repository": "https://github.com/vompa/fluent2-web-skill",
+  "license": "MIT",
+  "icon": "./icon.png",
+  "documentationUrl": "https://github.com/vompa/fluent2-web-skill#readme",
+  "supportUrl": "https://github.com/vompa/fluent2-web-skill/issues",
+  "privacyPolicyUrl": "https://github.com/vompa/fluent2-web-skill/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/vompa/fluent2-web-skill/blob/main/LICENSE",
+  "keywords": ["web", "react", "css", "fluent", "fluent-2", "fluent-ui", "design-system", "accessibility", "wcag"],
+  "skills": ["./fluent2-web/"]
+}
